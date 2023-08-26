@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sandeep7447
 - 👀 I’m interested in data  
 - 🌱 I’m currently learning data analytics 
-- 💞️ I’m looking to collaborate on data related talks 
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email or 7447317626
 
 <!---
